@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+OpenVino 2024.0.0 (#8726)
