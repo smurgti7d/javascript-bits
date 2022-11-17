@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Update the heatmap module code + docs (#7045)
