@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
