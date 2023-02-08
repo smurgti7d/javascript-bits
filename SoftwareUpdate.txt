@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
