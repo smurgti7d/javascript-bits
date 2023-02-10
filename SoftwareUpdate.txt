@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Add YOLOv8 LibTorch C++ inference example (#7090)
