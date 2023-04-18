@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
