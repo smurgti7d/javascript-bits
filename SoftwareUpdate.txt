@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
