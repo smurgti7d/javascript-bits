@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Python refactorings and simplifications (#7549)
