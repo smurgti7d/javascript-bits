@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Improve Coral Edge TPU guide (#8160)
