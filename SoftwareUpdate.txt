@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Elaborate Train and Predict mode docs arguments (#8137)
