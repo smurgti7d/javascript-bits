@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
