@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Compress docs images (#8124)
