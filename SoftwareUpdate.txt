@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
