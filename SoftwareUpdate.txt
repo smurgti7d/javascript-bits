@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
