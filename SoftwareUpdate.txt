@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Clarify triton server boolean value (#8532)
