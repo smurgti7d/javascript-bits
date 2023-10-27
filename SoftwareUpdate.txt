@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+OpenVino 2024.0.0 (#8726)
