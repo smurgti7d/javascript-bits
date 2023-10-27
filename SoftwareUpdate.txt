@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Fix docs H1 tags (#7182)
