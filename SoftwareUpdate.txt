@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Segment TensorRT batch=3 fix (#7952)
