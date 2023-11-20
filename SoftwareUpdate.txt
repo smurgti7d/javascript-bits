@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
