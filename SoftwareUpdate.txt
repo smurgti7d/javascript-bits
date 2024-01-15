@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Update CI.md with CI links (#8786)
