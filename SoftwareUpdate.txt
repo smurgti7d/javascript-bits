@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
