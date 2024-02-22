@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
