@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Add PR Summary step to Ultralytics Actions (#7675)
