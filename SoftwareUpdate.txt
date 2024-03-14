@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Reverse IoU threshold for NMS docs descriptions (#9151)
