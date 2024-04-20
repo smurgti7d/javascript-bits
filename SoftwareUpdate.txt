@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Allow Annotator PIL.Image inputs (#8397)
